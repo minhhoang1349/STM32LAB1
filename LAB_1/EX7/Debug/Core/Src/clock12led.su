@@ -1,4 +1,0 @@
-clock12led.c:11:6:clearAllClock	16	static
-clock12led.c:17:6:setNumberOnClock	16	static
-clock12led.c:60:6:clearNumberOnClock	16	static
-clock12led.c:103:6:SetClock	16	static
